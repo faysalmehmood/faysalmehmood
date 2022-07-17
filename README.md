@@ -1,9 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Faysal</h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="empty line">
-
-<!--BIO-->
-Hello, you can call me `Faysal`. I’m `28 years old`. I live in `Lahore, Pakistan`
 
 ### 👨🏻‍💻 &nbsp;About Me
 🔭    &nbsp;I'm a fullstack developer and mainly working in fintech industry since last 6 years.\
@@ -44,6 +41,8 @@ Hello, you can call me `Faysal`. I’m `28 years old`. I live in `Lahore, Pakist
 
 ### ⚙️ &nbsp;My GitHub Analytics
 
+<div align="center">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faysalmehmood&theme=github_dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=faysalmehmood&theme=github_dark&layout=compact)
 
@@ -54,9 +53,14 @@ Hello, you can call me `Faysal`. I’m `28 years old`. I live in `Lahore, Pakist
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="empty line">
 
-### 🤝🏻 &nbsp;Connect with Me
-[![Linkedin Badge](https://img.shields.io/badge/-faysalmehmood-blue?style=flat-roundedrectangle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faysalmahmoud)](https://www.linkedin.com/in/faysalmahmoud)
-[![Twitter Badge](https://img.shields.io/badge/-faysalmehmood-2F4B2F?style=flat-roundedrectangle&logo=Twitter&logoColor=white&link=https://www.twitter.com/faysalmahmuod)](https://www.deviantart.com/faysalmahmuod)
+</div>
 
+### 🤝🏻 &nbsp;Connect with Me
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-faysalmehmood-blue?style=flat-roundedrectangle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faysalmahmoud)](https://www.linkedin.com/in/faysalmahmoud)
+[![Twitter Badge](https://img.shields.io/badge/-faysalmehmood-2F4B2F?style=flat-roundedrectangle&logo=Twitter&logoColor=white&link=https://www.twitter.com/faysalmahmuod)](https://www.twitter.com/faysalmahmuod)
+
+</div>
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=faysalmahmoud) -->
 <h5 align="center">Made With ❤️ by Me </h5>
