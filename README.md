@@ -15,7 +15,12 @@
 
 ![Java](https://img.shields.io/badge/Java-72b854?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-4bb31e?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Hibernate](https://img.shields.io/badge/Hibernate-257303?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-257303?style=for-the-badge&logo=Hibernate&logoColor=white)&nbsp;
+
+![Postgresql](https://img.shields.io/badge/PostgreSQL-7d797c?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Mysql](https://img.shields.io/badge/MySQL-474446?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Mongo](https://img.shields.io/badge/MongoDB-1f1e1e?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
 
 ![AWS](https://img.shields.io/badge/AWS-5e9acc?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![GCP](https://img.shields.io/badge/GCP-368acf?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
