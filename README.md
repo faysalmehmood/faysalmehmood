@@ -44,21 +44,13 @@ Hello, you can call me `Faysal`. I’m `28 years old`. I live in `Lahore, Pakist
 
 ### ⚙️ &nbsp;My GitHub Analytics
 
-<div class ="gh-stats-fm">
-<p style="align-items: center; display:inline-flex;">
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faysalmehmood&theme=github_dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=faysalmehmood&theme=github_dark&layout=compact)
-
-</p>
 
 ![Github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=faysalmehmood&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faysalmehmood&theme=tokyonight_duo" alt="mystreak"/>
 
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=faysalmehmood&theme=react-dark)](faysalmehmood)
-
-</div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="empty line">
 
