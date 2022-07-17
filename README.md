@@ -7,7 +7,7 @@
 ✍️ &nbsp;I have worked on large scale distributed systems, microservices, cryptography, ISO8583, EMV Co 3DS and EMV Co Chip protocols.\
 💡    &nbsp;I like to explore new technologies and ongoing trends in industry.\
 🌱    &nbsp;In my free time, I try to mow & maintain my home lawn.\
-✉️ &nbsp;You can shoot me an email at faysalmehmood@hotmail.com. I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at faysalmehmood@hotmail.com. I'll try to respond as soon as I can.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="empty line">
 
@@ -64,3 +64,5 @@
 </div>
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=faysalmahmoud) -->
 <h5 align="center">Made With ❤️ by Me </h5>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="empty line">
