@@ -5,14 +5,14 @@
 <!--BIO-->
 Hello, you can call me `Faysal`. I’m `28 years old`. I live in `Lahore, Pakistan`
 
-
-
 ### 👨🏻‍💻 &nbsp;About Me
 🔭    &nbsp;I'm a fullstack developer and mainly working in fintech industry since last 6 years.\
 ✍️ &nbsp;I have worked on large scale distributed systems, microservices, cryptography, ISO8583, EMV Co 3DS and EMV Co Chip protocols.\
 💡    &nbsp;I like to explore new technologies and ongoing trends in industry.\
 🌱    &nbsp;In my free time, I try to mow & maintain my home lawn.\
 ✉️ &nbsp;You can shoot me an email at faysalmehmood@hotmail.com. I'll try to respond as soon as I can.\
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="empty line">
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -40,22 +40,24 @@ Hello, you can call me `Faysal`. I’m `28 years old`. I live in `Lahore, Pakist
 ![Git](https://img.shields.io/badge/git-a86e5b?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-ad4e2f?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="empty line">
 
 ### ⚙️ &nbsp;My GitHub Analytics
 
+<p align="center">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faysalmehmood&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faysalmehmood&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=faysalmehmood&theme=github_dark&layout=compact)
 
 ![Github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=faysalmehmood&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faysalmehmood&theme=tokyonight_duo" alt="mystreak"/>
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faysalmehmood&theme=algolia&layout=compact)
-
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=faysalmehmood&theme=react-dark)](faysalmehmood)
 
+</p>
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="empty line">
 
 ### 🤝🏻 &nbsp;Connect with Me
 [![Linkedin Badge](https://img.shields.io/badge/-faysalmehmood-blue?style=flat-roundedrectangle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faysalmahmoud)](https://www.linkedin.com/in/faysalmahmoud)
