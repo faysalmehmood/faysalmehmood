@@ -21,7 +21,6 @@
 ![Mysql](https://img.shields.io/badge/MySQL-474446?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Mongo](https://img.shields.io/badge/MongoDB-1f1e1e?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
-
 ![AWS](https://img.shields.io/badge/AWS-5e9acc?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![GCP](https://img.shields.io/badge/GCP-368acf?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-197ed1?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
@@ -48,17 +47,16 @@
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faysalmehmood)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=faysalmehmood&theme=github_light&layout=compact)
-
-![Github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=faysalmehmood&show_icons=true&include_all_commits=true&count_private=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faysalmehmood&theme=tokyonight_duo" alt="mystreak"/>
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=faysalmehmood)](faysalmehmood)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="empty line">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faysalmehmood&theme=github)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=faysalmehmood&show_icons=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=faysalmehmood&theme=github-light)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faysalmehmood&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faysalmehmood&theme=github)
+![](https://activity-graph.herokuapp.com/graph?username=faysalmehmood&theme=github)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="empty line">
 
 ### 🤝🏻 &nbsp;Connect with Me
 <div align="center">
@@ -68,6 +66,6 @@
 
 </div>
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=faysalmahmoud) -->
-<h5 align="center">Made With ❤️ by Me </h5>
+<h5 align="center">Made With ❤️ </h5>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="empty line">
