@@ -48,10 +48,14 @@
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faysalmehmood&theme=github)
+
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=faysalmehmood&show_icons=true&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=faysalmehmood&theme=github-light)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faysalmehmood&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faysalmehmood&theme=github)
+
 ![](https://activity-graph.herokuapp.com/graph?username=faysalmehmood&theme=github)
 
 </div>
