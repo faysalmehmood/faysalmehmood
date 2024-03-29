@@ -3,11 +3,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="empty line">
 
 ### 👨🏻‍💻 &nbsp;About Me
-🔭    &nbsp;I'm a fullstack developer and mainly working in fintech industry since last 6 years.\
+🔭    &nbsp;I'm a fullstack developer and mainly working in fintech industry since last 8 years.\
 ✍️ &nbsp;I have worked on large scale distributed systems, microservices, cryptography, ISO8583, EMV Co 3DS and EMV Co Chip protocols.\
 💡    &nbsp;I like to explore new technologies and ongoing trends in industry.\
 🌱    &nbsp;In my free time, I try to mow & maintain my home lawn.\
-✉️ &nbsp;You can shoot me an email at faysalmehmood@hotmail.com. I'll try to respond as soon as I can.
+✉️ &nbsp;I can be reached via email at faysalmehmood@hotmail.com.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="empty line">
 
