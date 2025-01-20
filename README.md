@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="empty line">
 
 ### 👨🏻‍💻 &nbsp;About Me
-🔭    &nbsp;I'm a fullstack developer and mainly working in fintech industry since last 8 years.\
+🔭    &nbsp;I'm a fullstack developer and mainly working in fintech industry since 2015.\
 ✍️ &nbsp;I have worked on large scale distributed systems, microservices, cryptography, ISO8583, EMV Co 3DS and EMV Co Chip protocols.\
 💡    &nbsp;I like to explore new technologies and ongoing trends in industry.\
 🌱    &nbsp;In my free time, I try to mow & maintain my home lawn.\
@@ -43,30 +43,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="empty line">
 
-### ⚙️ &nbsp;My GitHub Analytics
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faysalmehmood&theme=github)
-
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=faysalmehmood&show_icons=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=faysalmehmood&theme=github-light)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faysalmehmood&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faysalmehmood&theme=github)
-
-![](https://activity-graph.herokuapp.com/graph?username=faysalmehmood&theme=github)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="empty line">
-
-### 🤝🏻 &nbsp;Connect with Me
-<div align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/-faysalmehmood-blue?style=flat-roundedrectangle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faysalmahmoud)](https://www.linkedin.com/in/faysalmahmoud)
-[![Twitter Badge](https://img.shields.io/badge/-faysalmehmood-2F4B2F?style=flat-roundedrectangle&logo=Twitter&logoColor=white&link=https://www.twitter.com/faysalmahmuod)](https://www.twitter.com/faysalmahmuod)
 
 </div>
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=faysalmahmoud) -->
